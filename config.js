@@ -4,12 +4,6 @@ module.exports = {
   PORT: 5000,
 
   // *Required* Bot token. Can be found in your bots application page.
-  // https://discordapp.com/developers/applications/me
-  TOKEN: 'Mzk5NjAzNzU2OTA1MjY3MjAw.DTPuQw.QIZZxRjl1f4WWkujOBD-7w7kiZM',
-
-  // *Required* Bot client ID. Can be found in your bots application page.
-  // https://discordapp.com/developers/applications/me
-  CLIENT_ID: '399603756905267200',
 
   // *Required* Redis URL. Can be left blank if Redis is opened locally.
   // Learn more here. http://redis.io/topics/quickstart
